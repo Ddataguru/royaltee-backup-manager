@@ -53,3 +53,14 @@ This project demonstrates practical use of:
 ## Author
 
 Queen Uche
+
+## Screenshots
+
+### Application Menu
+![Backup Manager Menu](screenshots/menu.png)
+
+### Successful Backup
+![Successful Backup](screenshots/backup-success.png)
+
+### Timestamped Backup Files
+![Backup Files](screenshots/backup-files.png)
